@@ -6,13 +6,11 @@ See the paper[^icmp-redirect] for more details about the vulnerability.
 
 [^icmp-redirect]: Feng, Xuewei, et al. "Man-in-the-middle attacks without rogue ap: When wpas meet icmp redirects." 2023 IEEE Symposium on Security and Privacy (SP). IEEE, 2023.
 
-## CWE
+## Metadata
 
-CWE-940: Improper Verification of Source of a Communication Channel
-
-## CVSS Score
-
-`CVSS:4.0/AV:A/AC:L/AT:P/PR:L/UI:P/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N`
+-   CVE-2024-37663
+-   CWE-940: Improper Verification of Source of a Communication Channel
+-   CVSS:4.0/AV:A/AC:L/AT:P/PR:L/UI:P/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N (4.4 / Medium)
 
 ## Reproduction
 

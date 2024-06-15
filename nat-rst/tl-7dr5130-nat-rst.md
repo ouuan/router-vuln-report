@@ -6,13 +6,11 @@ See the paper[^nat-rst] for more details about the vulnerability.
 
 [^nat-rst]: Yang, Yuxiang, et al. "Exploiting Sequence Number Leakage: TCP Hijacking in NAT-Enabled Wi-Fi Networks." Network and Distributed System Security (NDSS) Symposium. 2024.
 
-## CWE
+## Metadata
 
-CWE-940: Improper Verification of Source of a Communication Channel
-
-## CVSS Score
-
-`CVSS:4.0/AV:A/AC:L/AT:P/PR:L/UI:P/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N`
+-   CVE-2024-37662
+-   CWE-940: Improper Verification of Source of a Communication Channel
+-   CVSS:4.0/AV:A/AC:L/AT:P/PR:L/UI:P/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N (4.4 / Medium)
 
 ## Reproduction
 
